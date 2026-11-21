@@ -1,0 +1,201 @@
+question,gt,entity,titles,pred_base,pred_rag,retrieved,acc_base,acc_rag,len_base,len_rag
+What sport can you use this for?,"['racing', 'racing', 'racing']",Motorcycle,"['Motorcycling', 'Motorcycle']",motorcycle,motorcycling,True,0.0,0.0,0.0,0.0
+Name the type of plant this is?,"['vine', 'vine', 'vine']",plant,"['Flowering plant', 'Vascular plant']",ferns,ferns,True,0.0,0.0,0.0,0.0
+What toy is this?,"['stuffed animal', 'stuffed animal', 'stuffed animal']",teddy bear,"['Teddy bear', 'Teddy bear toss']",teddy bear,teddy bear,True,1.0,1.0,1.0,1.0
+Which part of this animal would be in use of it was playing the game that is played with the items the man is holding?,"['mouth', 'mouth', 'mouth']",Frisbee,"['Frisbee (disambiguation)', 'Guts (flying disc game)']",tail,tail,True,0.0,0.0,0.0,0.0
+What could this gentleman be carrying in that red bag?,"['clothes', 'clothes', 'clothes']",man,"['Man (disambiguation)', 'The Man']",clothes,clothes,True,1.0,1.0,1.0,1.0
+Who leaves a toilet like this?,"['man', 'man', 'man']",toilet,"['Toilet (disambiguation)', 'Toilet']",person,person,True,0.0,0.0,0.0,0.0
+A center affixed unit like this one in a kitchen is called a what?,"['island', 'island', 'island']",kitchen,"['Kitchen', 'Kitchen (disambiguation)']",island,island,True,1.0,1.0,1.0,1.0
+Why might someone go to this place?,"['shopping', 'shopping', 'shopping']",The Body Shop,"['Body shop', 'The Body Shop']",shopping,shopping,True,1.0,1.0,1.0,1.0
+What does this grow from?,"['ground', 'ground', 'ground']",Orange lily,"['Lilium bulbiferum', 'Hemerocallis fulva']",stem,bulb,True,0.0,0.0,0.6666666666666666,0.0
+What is that man doing with the bat?,"['swinging', 'swinging', 'swinging']",baseball bat,"['Corked bat', 'Baseball bat']",swinging,swinging,True,1.0,1.0,1.0,1.0
+Is this at a salt water beach or a lake?,"['salt water beach', 'salt water beach', 'salt water beach']",umbrella,"['Umbrella', 'Umbrella Corps']",saltwater,saltwater,True,0.0,0.0,0.0,0.0
+Who designed the statues?,"['artist', 'artist', 'artist']",statue,"['Statue', 'Statue of Liberty']",sculptor,frédéric auguste bartholdi,True,0.0,0.0,0.0,0.0
+What is the name of the items the hot dog are topped with?,"['condiments', 'condiments', 'condiments']",hot dog,"['Hot dog', 'Hot dog bun']",pickles,condiments,True,0.0,1.0,0.0,1.0
+What is this desk used for?,"['working', 'working', 'working']",desk,"['Desk', 'Desk audit']",work,work,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+What type of bike is on the ground?,"['bmx', 'bmx', 'bmx']",motorcycle,"['Motorcycle', 'Outline of motorcycles and motorcycling']",bicycle,bicycle,True,1.0,1.0,1.0,1.0
+What type of plane is that?,"['commercial', 'commercial', 'commercial']",TAS Spirit of Australia,"['Spirit of Tasmania', 'Australia']",tas,passenger,True,0.0,0.6666666666666666,0.0,0.6666666666666666
+Is this a room for a boy or girl?,"['girl', 'girl', 'girl']",teddy bear,"['Teddy bear', 'Teddy bear toss']",girl,girl,True,1.0,1.0,1.0,1.0
+In what year was this desert first introduced?,"['1847', '1847', '1847']",Donuts,"['Mister Donut', ""Randy's Donuts""]",1850,1956,True,0.0,0.0,0.0,0.0
+What is this surf trick called?,"['riding', 'riding', 'riding']",surfboard,"['Surfboard (disambiguation)', 'Surfing']",flip,flip,True,0.0,0.0,0.0,0.0
+What do they call running around the bases on a single hit?,"['homerun', 'homerun', 'homerun']",baseball,"['Baseball', 'Major League Baseball']",roundtripper,run,True,0.0,0.0,0.0,1.0
+Why is this plugged in?,"['charging', 'charging', 'charging']",wine glass,"['Champagne glass', 'Wine glass']",to charge,to charge,True,0.0,0.0,0.0,0.0
+What is the shape?,"['circle', 'circle', 'circle']",Finger with wound,"['Wound', 'Five Holy Wounds']",round,round,True,1.0,1.0,1.0,1.0
+What is the horsepower of the truck pulling the load?,"['510', '510', '510']",truck,"['Truck', 'Truck (disambiguation)']",600,600,True,0.0,0.0,0.0,0.0
+What kind of skiing is this person engaged in?,"['cross country', 'cross country', 'cross country']",person,"['Person', 'Model (person)']",cross country,cross country,True,1.0,1.0,1.0,1.0
+What is the person in the photo wearing?,"['wetsuit', 'wetsuit', 'wetsuit']",surfboard,"['Surfboard (disambiguation)', 'Surfboard']",wetsuit,wetsuit,True,1.0,1.0,1.0,1.0
+What is the name of the board he is on?,"['surf board', 'surf board', 'surf board']",surfboard,"['Surfboard (disambiguation)', 'Surfboard fin']",surfboard,surfboard,True,1.0,1.0,1.0,1.0
+Name the material used to make this car seat shown in this picture?,"['cloth', 'cloth', 'cloth']",Gray cat,"['Tabby cat', 'Boiga siamensis']",fabric,fabric,True,0.0,0.0,0.0,0.0
+What part of the face is the toothbrush in?,"['mouth', 'mouth', 'mouth']",Toothbrush,"['Toothbrush', 'Toothbrush moustache']",mouth,mouth,True,1.0,1.0,1.0,1.0
+What flavor is this pastry?,"['blueberry', 'blueberry', 'blueberry']",cake,"['Cake', 'Cake (disambiguation)']",chocolate,vanilla,True,0.6666666666666666,0.0,0.6666666666666666,0.0
+What kind of container are the flowers in?,"['vase', 'vase', 'vase']",oven,"['Dutch oven', 'Oven']",vase,vase,True,1.0,1.0,1.0,1.0
+What country does this appear to be?,"['scotland', 'scotland', 'scotland']",Land Rover Series III,"['Land Rover series', 'Land Rover']",england,england,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+Which of the foods in the picture is best for you to eat when you have a cold?,"['soup', 'soup', 'soup']",vegetable soup,"['Vegetable soup', 'Soup']",vegetables,vegetable soup,True,0.0,0.0,0.0,1.0
+What do teenage pranksters do to this animal?,"['tip', 'tip', 'tip']",Cows,"['You have two cows', 'HuCow']",hump,roleplay,True,0.0,0.0,0.0,0.0
+How many watts is that microwave?,"['800', '800', '800']",umbrella,"['Umbrella (song)', 'Umbrella']",1000,500,True,0.6666666666666666,0.0,0.6666666666666666,0.0
+What is this type of blanket called?,"['quilt', 'quilt', 'quilt']",bed,"['Bed', 'Bed (disambiguation)']",quilt,quilt,True,1.0,1.0,1.0,1.0
+What south american country usually has this climate?,"['brazil', 'brazil', 'brazil']",cow,"['Cattle', 'Cowes']",brazil,paraguay,True,1.0,0.0,1.0,0.0
+What american restaurant features an open kitchen with visible cooking area such as this?,"['diner', 'diner', 'diner']",pancake,"['Pancake', 'Pancake (disambiguation)']",chinese,pancake house,True,0.0,0.0,0.0,0.0
+What other big vehicle is often painted about the same shade as this vehicle?,"['firetruck', 'firetruck', 'firetruck']",train,"['A Train', 'The Train']",train car,train car,True,0.0,0.0,0.0,0.0
+What brand is this wine?,"['becker vineyards', 'becker vineyards', 'becker vineyards']",Becker Vineyards,"[""Château Marquis d'Alesme Becker"", 'Rheingau (wine region)']",becker vineyards,becker vineyards,True,1.0,1.0,1.0,1.0
+What would happen if these items fall to the ground?,"['shatter', 'shatter', 'shatter']",vase,"['Vase', 'Vase life']",break,break,True,0.6666666666666666,0.6666666666666666,1.0,1.0
+What brand of suit is the man in the image wearing?,"['brooks brothers', 'brooks brothers', 'brooks brothers']",Woman and man,"['Man and Woman', 'A Man and a Woman']",dolce & gabbana,dolce & gabbana,True,0.0,0.0,0.0,0.0
+Where might i buy a print that resembles this photo?,"['gallery', 'gallery', 'gallery']",umbrella,"['Umbrella', 'Umbrella Corps']",print store,print store,True,0.0,0.0,0.6666666666666666,0.6666666666666666
+What are the rolled black food items called?,"['sushi', 'sushi', 'sushi']",Sushi,"['Sushi', 'Sushi (disambiguation)']",sushi,sushi,True,1.0,1.0,1.0,1.0
+What type of bird is this?,"['blue jay', 'blue jay', 'blue jay']",Blue bird,"['Bluebird', 'The Blue Bird (play)']",blue and yellow,bluebird,True,0.0,0.6666666666666666,0.0,0.6666666666666666
+How can you tell that the people are not upset?,"['they are smiling', 'they are smiling', 'they are smiling']",Pizza,"['Pizza (disambiguation)', 'Pentagon pizza theory']",they're smiling,smiling,True,0.0,0.6666666666666666,0.6666666666666666,1.0
+How fast is the vehicle pictured capable of reaching?,"['80 mph', '80 mph', '80 mph']",train,"['A Train', 'The Train']",100 mph,fast,True,1.0,0.0,1.0,0.0
+Name the type of hat the man is wearing?,"['cowboy', 'cowboy', 'cowboy']",Bull,"['Bull', 'Bull (disambiguation)']",sombrero,sombrero,True,1.0,1.0,1.0,1.0
+What sates are these grown in?,"['florida california', 'florida california', 'florida california']",orange,"['Orange (fruit)', 'Shades of orange']",california,tropical,True,1.0,0.0,1.0,0.0
+How does the bread taste?,"['good', 'good', 'good']",cake,"['Cake', 'Cake (disambiguation)']",good,good,True,1.0,1.0,1.0,1.0
+What is this type of mack truck used for?,"['cement', 'cement', 'cement']",Mack truck,"['Mack Super-Liner', 'Mack R series']",concrete,concrete,True,0.0,0.0,0.0,0.0
+What type of platform should this vehicle be on?,"['tracks', 'tracks', 'tracks']",Steam locomotive,"['Steam locomotive', 'Geared steam locomotive']",railroad,railroad,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+What is the term for the effect used in this photo?,"['fisheye', 'fisheye', 'fisheye']",phone,"['Smartphone', 'Mobile phone']",tinted,telephoto,True,0.0,0.0,0.0,0.0
+What is the small white outdoor house like building called?,"['gazebo', 'gazebo', 'gazebo']",Park bench,"['The Park Bench', 'Bench (furniture)']",booth,booth,True,0.0,0.0,0.0,0.0
+What can the woman do with this toy?,"['throw it', 'throw it', 'throw it']",table,"['Table', 'Table dance']",play,eat,True,0.0,0.0,0.0,0.0
+Is this boy a professional player or still in high school?,"['high school', 'high school', 'high school']",tennis racket,"['Table tennis racket', 'List of racket sports']",high school,high school,True,1.0,1.0,1.0,1.0
+What is the decorative fabric on the floor called?,"['rug', 'rug', 'rug']",couch,"['Couch', 'Couch (disambiguation)']",rug,rug,True,1.0,1.0,1.0,1.0
+Is this in a home kitchen or commercial kitchen?,"['commercial', 'commercial', 'commercial']",Donuts,"[""Randy's Donuts"", 'Mister Donut']",commercial,commercial,True,1.0,1.0,1.0,1.0
+Which type of helmet is used by the sport person shown in this picture?,"['batters', 'batters', 'batters']",baseball,"['Baseball', 'Major League Baseball']",baseball,baseball,True,0.0,0.0,0.0,0.0
+Which brand of slipper is shown in this picture?,"['birkenstock', 'birkenstock', 'birkenstock']",Dog,"['Dog (disambiguation)', 'Hot dog']",clogs,clogs,True,0.0,0.0,0.0,0.0
+Who directed the 2012 movie shown on the television in the picture?,"['joss whedon', 'joss whedon', 'joss whedon']",bed,"['Bed (disambiguation)', 'Bed-in']",joss whedon,joss whedon,True,1.0,1.0,1.0,1.0
+What time of day is it?,"['noon', 'noon', 'noon']",Sandwich,"['Sandwich', 'Submarine sandwich']",lunch,lunch,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+Is this bathroom high or low end?,"['high', 'high', 'high']",bathroom,"['Bathroom', 'Bathroom sex']",high,high end,True,1.0,1.0,1.0,1.0
+Name one famous person whom also has a black and white one of these?,"['taylor swift', 'taylor swift', 'taylor swift']",cat,"['.cat', 'Felidae']",mrs. davis,michael jordan,True,0.0,0.0,0.0,0.0
+Which item in this room is usually to wash hands?,"['sink', 'sink', 'sink']",bed,"['Bed (disambiguation)', 'Bed']",sink,sink,True,1.0,1.0,1.0,1.0
+What are the white objects on this animals head called?,"['horns', 'horns', 'horns']",Bull,"['Bull', 'Bull (disambiguation)']",horns,horns,True,1.0,1.0,1.0,1.0
+Which airline has this insignia?,"['kuwait airways', 'kuwait airways', 'kuwait airways']",airplane,"['Airplane (disambiguation)', 'Airplane']",kawtai airways,kawtai airways,True,0.0,0.0,0.0,0.0
+When was the cola brand on the signs founded?,"['1892', '1892', '1892']",Coca-Cola,"['Coca-Cola', 'The Coca-Cola Company']",1886,1886,True,0.0,0.0,0.0,0.0
+What type of hat is this gentleman wearing?,"['top', 'top', 'top']",horse,"['Horse (disambiguation)', 'Horse']",top hat,top hat,True,1.0,1.0,1.0,1.0
+What character does this clock look like?,"['mickey mouse', 'mickey mouse', 'mickey mouse']",Mickey Mouse clock,"['Clock Cleaners', 'Mickey Mouse']",mickey mouse,mickey,True,1.0,0.0,1.0,1.0
+What fruit comes from these trees?,"['coconut', 'coconut', 'coconut']",clock tower,"['Clock Tower', 'Clock tower']",coconut,palm,True,1.0,0.0,1.0,0.0
+What type of skiing is being done here?,"['cross country', 'cross country', 'cross country']",skis,"['Skiing', 'Ski']",cross country,cross country,True,1.0,1.0,1.0,1.0
+What is this animal famously known for?,"['long neck', 'long neck', 'long neck']",giraffe,"['Giraffe (disambiguation)', 'Giraffe']",long neck,long neck,True,1.0,1.0,1.0,1.0
+Are these animals mammals or insects?,"['mammals', 'mammals', 'mammals']",cow,"['Cow (disambiguation)', 'Cattle']",mammals,mammals,True,1.0,1.0,1.0,1.0
+If it gets cold enough what will happen to the area being stepped over?,"['freeze', 'freeze', 'freeze']",person skiing,"['Alpine skiing', 'Water skiing']",freeze,freeze,True,1.0,1.0,1.0,1.0
+How tall do these animals get?,"['20 feet', '20 feet', '20 feet']",giraffe,"['Giraffe', 'Reticulated giraffe']",20 feet,12 meters,True,1.0,0.0,1.0,0.0
+What is the breed of this cat?,"['american shorthair', 'american shorthair', 'tabby']",cat,"['Cat (disambiguation)', 'Cat']",tabby,tabby,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+Is this fruit or veggies?,"['veggies', 'veggies', 'veggies']",sandwich,"['Sandwich', 'List of sandwiches']",fruit,fruit,True,0.0,0.0,0.0,0.0
+Why so many green vegetables?,"['healthy', 'healthy', 'healthy']",vegetables,"['Leaf vegetable', 'List of vegetables']",healthy,good for you,True,1.0,0.0,1.0,0.0
+What unpleasant emotional state does this weather phenomenon often cause?,"['depression', 'depression', 'depression']",Clock tower,"['Clock tower', 'Clock Tower']",fear,fear,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+What kind of oven is on the table?,"['toaster', 'toaster', 'toaster']",microwave,"['Microwave oven', 'Microwaves (disambiguation)']",microwave,microwave,True,0.0,0.0,0.0,0.0
+How do people use this?,"['sail', 'sail', 'sail']",sailboat,"['Sailboat', 'Sunfish (sailboat)']",sail,sail,True,1.0,1.0,1.0,1.0
+What small cloth is used to wipe the face or eating this meal?,"['napkin', 'napkin', 'napkin']",sandwich,"['Sandwich', 'List of sandwiches']",napkin,napkin,True,1.0,1.0,1.0,1.0
+What is this truck moving?,"['furniture', 'furniture', 'furniture']",truck,"['Truck (disambiguation)', 'Truck']",recalled items,cargo,True,0.0,0.6666666666666666,0.0,0.6666666666666666
+Which phase is that moon in?,"['half', 'half', 'half']",clock tower,"['Clock Tower', 'Clock tower']",waxing,waxing,True,0.0,0.0,0.0,0.0
+What kind of animal is clearly displayed on the cover of this bed?,"['deer', 'deer', 'deer']",bed,"['Bed (disambiguation)', 'Bed']",deer,deer,True,1.0,1.0,1.0,1.0
+What is a type of horseback sport?,"['polo', 'polo', 'polo']",horse,"['Equestrianism', 'Horse racing']",polo,horse racing,True,1.0,0.0,1.0,1.0
+What item might be used to warm this item of furniture?,"['electric blanket', 'electric blanket', 'electric blanket']",bed,"['Bed (disambiguation)', 'Bed']",lamp,lamp,True,0.0,0.0,0.0,0.0
+What fills the balloons?,"['helium', 'helium', 'helium']",birthday cake,"['Birthday cake', 'The Birthday Cake']",air,helium,True,0.0,1.0,0.0,1.0
+Would this article of furniture typically be for public or private use?,"['public', 'public', 'public']",bench,"['Bench', 'Bench press']",public,public,True,1.0,1.0,1.0,1.0
+How many passengers can this plane accomodate?,"['15', '15', '15']",plane,"['Plane (Unicode)', 'Plane']",10,10,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+What knocked the guy off his chair?,"['wave', 'wave', 'wave']",umbrella,"['Umbrella', 'Umbrella Corporation']",water,water,True,1.0,1.0,1.0,1.0
+What is the purpose of the logos on this truck?,"['identification', 'identification', 'identification']",truck,"['Truck', 'NASCAR Truck Series']",advertising,advertising,True,1.0,1.0,1.0,1.0
+What is the purpose of these objects?,"['art', 'art', 'art']",Vases,"['Vase', 'Hüseyindede vases']",art installation,display art,True,0.0,0.0,1.0,1.0
+What happens here?,"['sleep', 'sleep', 'sleep']",bed,"['Bed (disambiguation)', 'Bed']",sleeping,dogs sleeping,True,0.0,0.0,0.0,0.0
+What company is this plane flying for?,"['oneworld', 'oneworld', 'oneworld']",airplane,"['Airplane (disambiguation)', 'Airplane']",one world,one world,True,0.0,0.0,0.0,0.0
+Name the type of curtains shown in this picture?,"['drapes', 'drapes', 'drapes']",bed,"['Bed (disambiguation)', 'Bed']",valance,valance,True,0.0,0.0,0.0,0.0
+What animal does the meat on the pizza come from?,"['pig', 'pig', 'pig']",pepperoni pizza,"['Pepperoni', 'Pizza']",pig,pig,True,1.0,1.0,1.0,1.0
+How do you turn this on?,"['key', 'key', 'key']",motorcycle,"['Motorcycle', 'Outline of motorcycles and motorcycling']",key,start engine,True,1.0,0.0,1.0,0.0
+How tall is this animal usually?,"['20 feet', '20 feet', '20 feet']",giraffe,"['Reticulated giraffe', 'Giraffe']",20 feet,up to 6 meters,True,1.0,0.0,1.0,0.0
+How much tomato sauce is in this dish?,"['2 cups', '2 cups', '2 cups']",Pizza,"['Pizza (disambiguation)', 'Pizza']",lot,lot,True,0.0,0.0,0.0,0.0
+What brand of blue jeans is the skateboarder wearing?,"['levis', 'levis', 'vans']",skateboard,"['Skateboard', 'Skateboard (disambiguation)']",levis,levis,True,0.6666666666666666,0.6666666666666666,1.0,1.0
+Is this bird diurnal or nocturnal?,"['nocturnal', 'nocturnal', 'nocturnal']",Owl,"['Owl', 'Owl (disambiguation)']",nocturnal,nocturnal,True,1.0,1.0,1.0,1.0
+What is the white cloud behind the jet called?,"['contrail', 'contrail', 'contrail']",jet plane,"['Jet aircraft', 'Jay Jay the Jet Plane']",sonic boom,contrail,True,0.0,1.0,0.0,1.0
+How heavy is this object?,"['100 lbs', '100 lbs', '100 lbs']",refrigerator,"['Refrigerator', 'Refrigerator (disambiguation)']",not heavy,heavy,True,0.0,0.0,0.0,0.6666666666666666
+What restaraunt is this at?,"['pizzaria', 'pizzaria', 'pizzaria']",pizza,"['Pizza Pizza', 'Pizza (disambiguation)']",pizza,pizza pizza,True,0.0,0.0,0.6666666666666666,0.6666666666666666
+What breed of dog is this?,"['chihuahua', 'chihuahua', 'chihuahua']",Dog,"['Dog (disambiguation)', 'Dog']",basenji,basenji,True,0.0,0.0,0.0,0.0
+What musical instrument is this man playing?,"['piano', 'piano', 'piano']",Yamaha keyboard,"['Yamaha SHS-10', 'Yamaha Corporation']",keyboard,keyboard,True,0.6666666666666666,0.6666666666666666,1.0,1.0
+Does this type of train transport people or cargo?,"['cargo', 'cargo', 'cargo']",train,"['A Train', 'The Train']",cargo,cargo,True,1.0,1.0,1.0,1.0
+What kind of dog is this?,"['lab', 'lab', 'lab']",laptop,"['Laptop (disambiguation)', 'Laptop']",chihuahua,chihuahua,True,0.0,0.0,0.0,0.0
+What is the name of this dish?,"['pancakes', 'pancakes', 'pancakes']",pancakes,"['Crispy pancakes', 'The Pancakes']",pancake,pancakes,True,0.0,1.0,1.0,1.0
+On what holiday do people traditionally eat this bird?,"['thanksgiving', 'thanksgiving', 'thanksgiving']",chicken,"['Chicken', 'Chicken as food']",thanksgiving,thanksgiving,True,1.0,1.0,1.0,1.0
+What do these animals generally eat?,"['mice', 'mice', 'mice']",Slime slug,"['Banana slug', 'Slug']",moss and leaves,plant matter,True,0.0,0.0,0.0,0.0
+What could a person use this for?,"['directions', 'directions', 'directions']",Street sign,"['Traffic sign', 'Street name sign']",navigate,navigate,True,0.0,0.0,0.0,0.0
+What is a group of these animals called?,"['herd', 'herd', 'herd']",giraffe,"['Giraffe (disambiguation)', 'Giraffe']",giraffe,giraffes,True,0.0,0.0,0.0,0.0
+What toe related phrase is most commonly associated with this sport?,"['hang 10', 'hang 10', 'hang 10']",surfboard,"['Surfboard fin', 'Surfing']",butter finger,butterfinger,True,0.0,0.0,0.0,0.0
+What is the type of blade being used in this photo?,"['serrated', 'serrated', 'serrated']",cake,"['Cake (disambiguation)', 'Is It Cake?']",bread knife,bread knife,True,0.0,0.0,0.0,0.0
+Where are fruits like this best found?,"['south america', 'south america', 'south america']",Bananas,"['Banana', 'Cavendish banana']",market,market,True,0.0,0.0,0.0,0.0
+How long does this animal usually live?,"['10 years', '10 years', '10 years']",sheep,"['Sheep', 'Bighorn sheep']",12 years,10 years,True,0.0,1.0,0.0,1.0
+People that pledge to give per mile monies for those participating in these types of events are called what?,"['sponsors', 'sponsors', 'sponsors']",Run for Rights,"[""Women's rights"", 'Civil rights movement']",sponsors,donors,True,1.0,0.0,1.0,0.0
+What retractable appendage could this animal use to destroy the chair?,"['claws', 'claws', 'claws']",cat,"['Cat', 'Cat (disambiguation)']",claw,claw,True,1.0,1.0,1.0,1.0
+What event is this?,"['concert', 'concert', 'concert']",Clock tower,"['Clock Tower', 'Clock tower']",concert,concert,True,1.0,1.0,1.0,1.0
+What other item is this company famous for manufacturing?,"['tractors', 'tractors', 'tractors']",John Deere,"['John Deere (inventor)', 'John Deere']",tractors,lawn mower,True,1.0,0.0,1.0,0.0
+What is the arrow indicating?,"['1 way', '1 way', '1 way']",Stop sign,"['Stop sign', 'Yield sign']",one way,left turn,True,0.0,0.0,0.0,0.6666666666666666
+Why would animals do this?,"['mating', 'mating', 'procreate']",Elephant,"['Elephant', 'Elephant (disambiguation)']",play,play,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+What area of a school might this be?,"['library', 'library', 'library']",umbrella,"['Umbrella', 'The Umbrella Academy (TV series)']",library,library,True,1.0,1.0,1.0,1.0
+For how long should the man in this picture continue to brush his teeth?,"['5 minutes', '5 minutes', '5 minutes']",Toothbrush,"['Toothbrush', 'Toothbrush (disambiguation)']",2 minutes,for two minutes,True,0.6666666666666666,0.0,0.6666666666666666,0.0
+What kind of bird is this?,"['myna', 'myna', 'myna']",Common Myna,"['Common myna', 'Common hill myna']",brown bird,common myna,True,0.0,0.0,0.6666666666666666,1.0
+How would you dress for this setting?,"['shorts', 'shorts', 'shorts']",Seagull,"['Seagull management', 'The Seagull']",sandals,casual,True,0.0,0.0,0.0,0.0
+What new company has created competition for this type of transportation?,"['uber', 'uber', 'uber']",taxi,"['Taxi', 'Taxi (disambiguation)']",uber,ride share,True,1.0,0.0,1.0,0.0
+What weather phenomenon most likely happened?,"['flood', 'flood', 'flood']",bench,"['Bench', 'Bench Sheko']",flood,flood,True,1.0,1.0,1.0,1.0
+How many calories is in a food like this?,"['400', '400', '400']",Sandwich,"['Sandwich', 'List of sandwiches']",100,100-200,True,0.0,0.0,0.0,0.0
+What single verb can be used to describe the action in this photo?,"['flush', 'flush', 'flush']",Toilet bowl,"['Toilet Bowl', 'Flush toilet']",flush,flush,True,1.0,1.0,1.0,1.0
+What kind of park is this picture taken in?,"['skatepark', 'skatepark', 'skatepark']",skateboarder,"['Skateboard', 'Skateboarding']",skate,skatepark,True,0.6666666666666666,1.0,1.0,1.0
+Who is the motorcycle manufacture?,"['kawasaki', 'kawasaki', 'kawasaki']",Triumph motorcycle,"['Triumph Motorcycles Ltd', 'Triumph Engineering']",triumph,triumph,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+What kind of shakers are on the table?,"['salt and pepper', 'salt and pepper', 'salt and pepper']",pizza,"['Pizza', 'Pizza (disambiguation)']",salt and pepper,salt pepper,True,1.0,0.0,1.0,1.0
+What low calorie way of cooking the green vegetables involves heating them over hot water?,"['steaming', 'steaming', 'steaming']",Broccoli,"['Broccoli', 'Romanesco broccoli']",steaming,steaming,True,1.0,1.0,1.0,1.0
+What kind of serving utensil is used to serve this pizza?,"['spatula', 'spatula', 'spatula']",pizza,"['Pizza (disambiguation)', 'Pizza']",pizza cutter,pizza cutter,True,0.0,0.0,0.0,0.0
+What type of process is occurring here?,"['making donuts', 'making donuts', 'making donuts']",donuts,"['Doughnut', 'Mister Donut']",frying,frying,True,0.6666666666666666,0.6666666666666666,1.0,1.0
+What waterway is this boat on?,"['canal', 'canal', 'canal']",boat,"['Boat (disambiguation)', 'Boat']",canal,canal,True,1.0,1.0,1.0,1.0
+Is this illegal or legal?,"['legal', 'legal', 'legal']",Passenger,"['Passenger (disambiguation)', 'Passenger']",legal,legal,True,1.0,1.0,1.0,1.0
+Where can i buy flowers like these?,"['florist', 'florist', 'florist']",Calla lilies,"['Calla lily', 'Zantedeschia aethiopica']",flower shop,flower shop,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+What do you call the device that keeps boats in place at sea?,"['anchor', 'anchor', 'anchor']",Marina,"['Marina', 'Marina (disambiguation)']",anchor,anchor,True,1.0,1.0,1.0,1.0
+What kind of bird are they?,"['seagulls', 'seagulls', 'seagulls']",seagull,"['Gull', 'Jonathan Livingston Seagull']",seagull,seagull,True,0.6666666666666666,0.6666666666666666,1.0,1.0
+This man is speaking into a?,"['microphone', 'microphone', 'microphone']",Barack Obama,"['Barack Obama Sr.', 'Barack Obama']",microphone,microphone,True,1.0,1.0,1.0,1.0
+What type of clothing are the men wearing?,"['suits', 'suits', 'suits']",robot,"['Robot', 'Robotics']",suit,suits,True,0.0,1.0,1.0,1.0
+What kind of glass is used to make that shower enclosure?,"['tempered', 'tempered', 'tempered']",Toilet,"['Flush toilet', 'Toilet']",clear,clear glass,True,0.6666666666666666,0.0,0.6666666666666666,0.6666666666666666
+What is brown on the plate?,"['steak', 'steak', 'steak']",broccoli,"['Broccoli', 'Romanesco broccoli']",meat,meat,True,1.0,1.0,1.0,1.0
+What type of music is this child playing?,"['piano', 'piano', 'piano']",piano,"['Piano', 'Piano (company)']",classical,classical,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+Who invented the headgear worn here?,"['gottlieb daimler', 'gottlieb daimler', 'gottlieb daimler']",Motorcycle race,"['Motorcycle racing', 'Australian motorcycle Grand Prix']",hans keller,hans krieger,True,0.0,0.0,0.0,0.0
+What material are those suits made out of?,"['neoprene', 'neoprene', 'neoprene']",surfboard,"['Surfboard', 'Surfboard wax']",neoprene,neoprene,True,1.0,1.0,1.0,1.0
+What sport is this?,"['rugby', 'rugby', 'rugby']",rugby ball,"['Rugby ball', 'Rugby union']",rugby,rugby,True,1.0,1.0,1.0,1.0
+What sport is this?,"['horse racing', 'horse racing', 'horse racing']",Horse race,"['Horse racing', 'Man versus Horse Marathon']",horse racing,horse racing,True,1.0,1.0,1.0,1.0
+What type of person would you call if this happened in your house?,"['plumber', 'plumber', 'plumber']",toilet,"['Toilet', 'Flush toilet']",plumber,plumber,True,1.0,1.0,1.0,1.0
+Is this the beach or sahara?,"['sahara', 'sahara', 'sahara']",Airplane,"['Airplane (disambiguation)', 'Airplane']",beach,beach,True,1.0,1.0,1.0,1.0
+What type of bread is on this sandwhich?,"['rye', 'rye', 'rye']",sandwich,"['List of sandwiches', 'Submarine sandwich']",white,sub roll,True,0.0,0.0,0.0,0.0
+What religion does the statue belone to?,"['buddhism', 'buddhism', 'buddhism']",Panda bear,"['Panda (disambiguation)', 'Giant panda']",buddhism,buddhism,True,1.0,1.0,1.0,1.0
+What type of food is this?,"['oranges', 'oranges', 'oranges']",oranges,"['Orange (fruit)', 'Orange']",orange,orange,True,1.0,1.0,1.0,1.0
+What kind of cat is this and what are some depictions of this breed of cat in fiction?,"['siamese', 'siamese', 'siamese']",cat,"['Cat (disambiguation)', 'Felidae']",siamese,siamese cat,True,1.0,0.0,1.0,1.0
+In what city is the restaurant the man in the green hat is eating at?,"['miami', 'miami', 'miami']",man eating,"['Man-eating animal', 'Tsavo Man-Eaters']",san diego,unknown,True,0.0,0.0,0.0,0.0
+Is this animal a carnivore herbivore or omnivore?,"['carnivore', 'carnivore', 'carnivore']",cat,"['Cat', 'Felidae']",omnivore,carnivore,True,0.6666666666666666,1.0,0.6666666666666666,1.0
+What ingredient is missing from the picture to make a pb and j sandwich?,"['jelly', 'jelly', 'jelly']",peanut butter,"['Peanut butter', 'Skippy (peanut butter)']",jelly,jelly,True,1.0,1.0,1.0,1.0
+What is the lighing like?,"['dim', 'dim', 'dim']",laptop,"['Laptop', 'Laptop (disambiguation)']",dim,dim,True,1.0,1.0,1.0,1.0
+What kind of slope is pictured here?,"['ski', 'ski', 'ski']",snow,"['Snow', 'SNOW']",ski slope,ski slope,True,0.6666666666666666,0.6666666666666666,1.0,1.0
+What source of energy does this vehicle use?,"['gasoline', 'gasoline', 'gasoline']",bus,"['Bus', 'Bus (disambiguation)']",electricity,electricity,True,0.0,0.0,0.0,0.0
+What are the two items that this athlete has in either hand?,"['ski poles', 'ski poles', 'ski poles']",skier,"['Skiing', 'Eileen Gu']",ski poles,ski poles,True,1.0,1.0,1.0,1.0
+What is the rack on the bus used for?,"['bikes', 'bikes', 'bikes']",bus,"['Bus (disambiguation)', 'Bus']",sign,advertising,True,0.0,0.0,0.0,0.0
+What is this woman playing with?,"['sprinkler', 'sprinkler', 'sprinkler']",frisbee,"['Frisbee (disambiguation)', 'Frisbee']",frisbee,frisbee,True,1.0,1.0,1.0,1.0
+How do you make this dish?,"['cook it', 'cook it', 'cook it']",meatballs,"['Meatball', 'Meatball sandwich']",grill,"grind, mix, shape, cook",True,0.0,0.0,0.0,0.0
+What could this guy be doing?,"['fixing traffic light', 'fixing traffic light', 'fixing traffic light']",traffic light,"['Traffic light', 'Variations in traffic light operation']",fixing light,fixing light,True,0.0,0.0,1.0,1.0
+Where were these vegetables grown?,"['garden', 'garden', 'garden']",Broccoli,"['Broccoli', 'Romanesco broccoli']",field,farm,True,0.0,0.0,0.0,0.6666666666666666
+The food in the photo contains which healthy vitamins?,"['calcium', 'calcium', 'calcium']",Grilled cheese sandwich,"['Grilled cheese', 'Cheese sandwich']",vitamin c,"lettuce, tomato",True,0.0,0.0,0.6666666666666666,0.0
+What topping are on the hotdog?,"['ketchup and peas', 'ketchup and peas', 'ketchup and peas']",Hot dog,"['Hot dog', 'Chicago-style hot dog']",ketchup and peas,mustard,True,1.0,0.0,1.0,0.0
+Which political figure is being referenced on the child's shirt?,"['clinton', 'clinton', 'clinton']",Pizza slice,"['Jumbo slice', 'Pizza by the slice']",obama,obama,True,1.0,1.0,1.0,1.0
+What is this fireplace made of?,"['bricks', 'bricks', 'bricks']",fireplace,"['Fireplace', 'Fireplace fireback']",brick,brick,True,0.6666666666666666,0.6666666666666666,1.0,1.0
+The picture on the laptop is called a what?,"['background', 'background', 'background']",laptop,"['Laptop (disambiguation)', 'Laptop']",landscape,screen shot,True,0.6666666666666666,0.0,0.6666666666666666,0.0
+How well done is this steak cooked?,"['medium rare', 'medium rare', 'medium rare']",steak,"['Steak', 'Steak (disambiguation)']",medium rare,medium rare,True,1.0,1.0,1.0,1.0
+What type of bird is this?,"['cardinal', 'cardinal', 'cardinal']",Cardinal bird,"['Northern cardinal', 'Cardinal']",cardinal,cardinal,True,1.0,1.0,1.0,1.0
+What beverages are pictured in this phot?,"['juice', 'juice', 'juice']",Bananas,"['Bananas Foster', 'Banana']",soda,alcohol,True,0.0,0.0,0.0,0.0
+What kind of sign is this?,"['political', 'political', 'political']",bus stop,"['Bus stop', 'Bus stop (disambiguation)']",yes,bus stop,True,0.0,0.0,0.0,0.0
+What continent s is are this bird found on?,"['north america', 'north america', 'north america']",Bird,"['Bird', 'Bird (disambiguation)']",North America,north america,True,1.0,1.0,1.0,1.0
+What is needed to use this vehicle?,"['gasoline', 'gasoline', 'gasoline']",motorcycle,"['Motorcycle', 'Motorcycling']",helmet,helmet,True,0.0,0.0,0.0,0.0
+What breed are these two dogs?,"['chihuahua', 'chihuahua', 'chihuahua']",Dog,"['Dog (disambiguation)', 'Dog']",chihuahua,chihuahua,True,1.0,1.0,1.0,1.0
+What base is this guy on?,"['second', 'second', 'second']",baseball field,"['Baseball field', 'Fiscalini Field']",first,first,True,0.0,0.0,0.0,0.0
+What tooth is named after this type of animal?,"['canine', 'canine', 'canine']",dog,"['Dog', 'Dog (disambiguation)']",canine,canine,True,1.0,1.0,1.0,1.0
+What celestial body controls the movements of the body of water featured in this photo?,"['moon', 'moon', 'moon']",surfboard,"['Surfing', 'Surfboard (disambiguation)']",sun,sun,True,0.0,0.0,0.0,0.0
+What are the white lines marked for?,"['crosswalk', 'crosswalk', 'crosswalk']",luggage,"['Hand luggage', 'Luggage scale']",crosswalk,crosswalk,True,1.0,1.0,1.0,1.0
+How big do these animals get?,"['5 feet', '5 feet', '5 feet']",Dog,"['Dog', 'Dog (disambiguation)']",big,big,True,0.0,0.0,0.0,0.0
+What kind of race is this?,"['marathon', 'marathon', 'marathon']",skateboarders,"['Skateboard', 'Skateboarding']",skateboard,skateboarding,True,0.0,0.0,0.0,0.6666666666666666
+What might be the weight of this luggage?,"['30.7 lbs', '30.7 lbs', '30.7 lbs']",Suitcase,"['Suitcase (disambiguation)', 'Suitcase']",30.7,30.7 kg,True,0.6666666666666666,0.0,1.0,0.6666666666666666
+Was the person old or young?,"['old', 'old', 'old']",Laptop,"['Laptop (disambiguation)', 'Laptop']",young,young,True,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666
+What breed of horse is that?,"['mustang', 'mustang', 'mustang']",Queen Elizabeth II,"['Elizabeth II', 'Coronation of Elizabeth II']",stallion,stallion,True,0.0,0.0,0.0,0.0
+Is the light ambient or natural?,"['natural', 'natural', 'natural']",dog,"['Dog', 'Dog (disambiguation)']",natural,natural,True,1.0,1.0,1.0,1.0
+What black veggie is on this pizza?,"['olives', 'olives', 'olives']",Pizza,"['Pizza (disambiguation)', 'Pizza']",olives,olives,True,1.0,1.0,1.0,1.0
+The people in this photo are wearing what outfits which can be considered business formal?,"['suits', 'suits', 'suits']",surfboard,"['Surfboard', 'Surfboard (disambiguation)']",suits,suit,True,1.0,0.6666666666666666,1.0,1.0
+What is this bench made out of?,"['wood and metal', 'wood and metal', 'wood and metal']",bench,"['Bench', 'Bench press']",metal,metal,True,0.0,0.0,1.0,1.0
+What causes these waves?,"['tides', 'tides', 'tides']",surfboard,"['Surfboard (disambiguation)', 'Surfing']",wind and water,ocean,True,0.0,0.0,1.0,0.0
+What could make this room brighter?,"['open curtains', 'open curtains', 'open curtains']",couch,"['Couch (disambiguation)', 'Couch']",open curtains,open curtains,True,1.0,1.0,1.0,1.0
+What is the name of that device that's holding the towels?,"['rack', 'rack', 'rack']",toilet,"['Toilet', 'Flush toilet']",hanger,hanger,True,0.0,0.0,0.0,0.0
+What small appliance is that stuffed animal inside?,"['microwave', 'microwave', 'microwave']",microwave,"['Microwave oven', 'Microwaves (disambiguation)']",microwave,microwave,True,1.0,1.0,1.0,1.0
+What sport is this kind of racquet used to play?,"['badminton', 'badminton', 'badminton']",tennis racket,"['List of racket sports', 'Table tennis racket']",badminton,badminton,True,1.0,1.0,1.0,1.0
